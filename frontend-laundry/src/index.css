@@ -1,0 +1,128 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#card1{
+  background-color: #ef5543;
+  color: white;
+  border-radius: 10px;
+}
+
+#link{
+  color: white;
+  text-decoration: none;
+}
+
+
+#cardState{
+  font-weight: bold;
+}
+
+#cardDesk{
+  font-weight: lighter;
+}
+
+#login{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#tittle{
+  font-weight: bold;
+  color: #c57667;
+}
+
+#card2{
+  background-color: #a87c63;
+  color: white;
+  border-radius: 10px;
+}
+
+#card3{
+  background-color: #9eb7be;
+  color: white;
+  border-radius: 10px;
+}
+
+#card4{
+  background-color: #7dc89d;
+  color: white;
+  border-radius: 10px;
+}
+
+#navbar{
+  background-color: #f7f7f7;
+}
+
+#logout{
+  color: #333333;
+  text-decoration: none;
+}
+
+#edit{
+  background-color: #9eb7be;
+  color: white;
+}
+
+#hapus{
+  background-color: #ef5543;
+  color: white;
+}
+
+#card5{
+  background-color: #c57667;
+}
+
+#card6{
+  background-color: #c57667;
+  color: white;
+}
+
+#action1{
+  color: #000;
+}
+
+#action2{
+  background-color: #ef5543;
+  color: white;
+}
+
+#action3{
+  background-color: #a87c63;
+  color: white;
+}
+
+#action4{
+  background-color: #9eb7be;
+  color: white;
+}
+
+#action5{
+  background-color:#577532;
+  color: white;
+}
+
+#status1{
+  background-color: #577532;
+  color: white;
+}
+
+#status2{
+  background-color: #c64349;
+  color: white;
+}
+
+#status3{
+  color: #9eb7be;
+}
